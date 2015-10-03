@@ -15,7 +15,8 @@ namespace DravenPlus
 
     internal class DravenPlus
     {
-        #region Public Properties
+      private static int AxeCount
+      {
 
         /// <summary>
         ///     Gets or sets the e.
