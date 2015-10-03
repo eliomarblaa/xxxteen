@@ -1,6 +1,4 @@
-namespace dravenplus
-{
-    using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using SharpDX;
@@ -12,6 +10,8 @@ using EloBuddy.SDK.Menu;
 using EloBuddy.SDK.Menu.Values;
 using EloBuddy.SDK.Rendering;
 using Color = System.Drawing.Color;
+
+namespace DravenPlus
 
     internal class DravenPlus
     {
